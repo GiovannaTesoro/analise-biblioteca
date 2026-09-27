@@ -134,5 +134,5 @@ analise-biblioteca-sql/
     Visualize os screenshots na pasta 05_dashboard/prints/
 
 
-  Projeto desenvolvido por Giovana Lourenço
+  Projeto desenvolvido por Giovanna Lourenço
 🔗 LinkedIn 
